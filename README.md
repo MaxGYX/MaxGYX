@@ -6,7 +6,7 @@ I'm a freshman majoring in **Informatics at the University of Washington (UW), S
 
 ### 🔭 What I'm currently working on
 
-- 🎓 **Personalized Course Workload Evaluator | Husky Coding Project (HCP)**
+- 🎓 **Personalized Course Workload Evaluator**
   - Proposed and currently scoping an AI-assisted course workload assessment tool to help incoming freshmen avoid under- or over-loading their schedules.
   - Motivated by personal struggles during freshman course registration; focusing on mapping individual student goals and academic backgrounds to realistic workload predictions.
   - Currently designing the system architecture and evaluating suitable AI integrations to ensure accurate, personalized recommendations, with plans to scale the tool for broader university use.
