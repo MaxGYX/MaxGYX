@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Max! 👋
 
-<!--
-**MaxGYX/MaxGYX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a freshman majoring in **Informatics at the University of Washington (UW), Seattle**. I'm a passionate developer and researcher with a strong interest in Artificial Intelligence, Deep Learning, and hardware integrations. 
 
-Here are some ideas to get you started:
+🚀 **I am actively seeking Software Engineering or AI/ML internship opportunities for Summer 2027!**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 What I'm currently working on
+
+- 🎓 **Personalized Course Workload Evaluator | Husky Coding Project (HCP)**
+  - Proposed and currently scoping an AI-assisted course workload assessment tool to help incoming freshmen avoid under- or over-loading their schedules.
+  - Motivated by personal struggles during freshman course registration; focusing on mapping individual student goals and academic backgrounds to realistic workload predictions.
+  - Currently designing the system architecture and evaluating suitable AI integrations to ensure accurate, personalized recommendations, with plans to scale the tool for broader university use.
+
+### 🛠️ Tech Stack
+
+- **Languages:** Java, Python, R
+- **AI & ML:** PyTorch, LLMs, Prompt Engineering
+- **Tools & Methodologies:** Git, GitHub, Agile/Team Collaboration
