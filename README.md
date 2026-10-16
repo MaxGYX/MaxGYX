@@ -13,6 +13,6 @@ I'm a freshman majoring in **Informatics at the University of Washington (UW), S
 
 ### 🛠️ Tech Stack
 
-- **Languages:** Java, Python, R
+- **Languages:** Java, Python, R, SQL
 - **AI & ML:** PyTorch, LLMs, Prompt Engineering
 - **Tools & Methodologies:** Git, GitHub, Agile/Team Collaboration
