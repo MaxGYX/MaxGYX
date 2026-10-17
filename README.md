@@ -2,7 +2,7 @@
 
 I'm a freshman majoring in **Informatics at the University of Washington (UW), Seattle**. I'm a passionate developer and researcher with a strong interest in Artificial Intelligence, Deep Learning, and hardware integrations. 
 
-🚀 **I am actively seeking Software Engineering or AI/ML internship opportunities for Summer 2027!**
+🚀 **I am actively seeking Software Engineering or AI/ML internship opportunities for Summer 2027.**
 
 ### 🔭 What I'm currently working on
 
